@@ -1,4 +1,4 @@
-# 🚨 Is ai dumb for me or for everyone?
+# 🚨 Is it dumb just for me or for everyone?
 
 ## Having issues with AI coding tools right now?
 
