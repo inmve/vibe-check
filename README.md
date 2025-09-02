@@ -1,6 +1,6 @@
 # 🚨 Is it dumb just for me or for everyone?
 
-## Having issues with AI coding tools right now?
+## Having issues with LLM coding tools right now?
 
 ### [→ Report it here (30 seconds)](https://github.com/inmve/vibe-check/issues/new?assignees=&labels=degradation-report&projects=&template=degradation-report.md&title=%5BAI+TOOL%5D+quality+is+degraded)
 
