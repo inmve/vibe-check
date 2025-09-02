@@ -1,4 +1,4 @@
-# 🚨 Is it dumb just for me or for everyone?
+# Is it dumb just for me or for everyone?
 
 ## Having issues with LLM coding tools right now?
 
