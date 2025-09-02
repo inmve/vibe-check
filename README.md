@@ -2,7 +2,7 @@
 
 ## Having issues with AI coding tools right now?
 
-### [→ Report it here (30 seconds)](https://github.com/ivan/vibe-check/issues/new?assignees=&labels=degradation-report&projects=&template=degradation-report.md&title=%5BAI+TOOL%5D+is+slow%2Fdown)
+### [→ Report it here (30 seconds)](https://github.com/ivan/vibe-check/issues/new?assignees=&labels=degradation-report&projects=&template=degradation-report.md&title=%5BAI+TOOL%5D+quality+is+degraded)
 
 Just need:
 - Which tool (Claude Code, Gemini CLI, Codex CLI)
