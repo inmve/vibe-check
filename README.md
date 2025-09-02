@@ -30,8 +30,3 @@ This repo tracks degradations in real-time through crowd-sourced reports. Just a
 [📊 View all degradation reports →](https://github.com/inmve/vibe-check/issues?q=is%3Aissue+label%3Adegradation-report)
 
 See the same issue? Add a 👍 reaction to confirm you're experiencing it too.
-
-
----
-
-*Tired of wondering if it's just you? Let's find out together.*
