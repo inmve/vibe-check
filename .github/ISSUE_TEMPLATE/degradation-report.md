@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-## Tool
-<!-- Which AI tool is affected? (Claude Code, Gemini CLI, Codex CLI, etc.) -->
-
-
 ## Issue Type
 <!-- Check all that apply -->
 - [ ] Slow/lagging
